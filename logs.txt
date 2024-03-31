@@ -1,0 +1,57 @@
+commit 9faed4df95dce0c69093a953f37b06a74747f545
+Merge: 1f06794 a24fd66
+Author: DoneDonev <donedonev15@gmail.com>
+Date:   Sun Mar 31 21:52:55 2024 +0200
+
+    Merge remote-tracking branch 'origin/bug2'
+    Resolve divergent branches
+
+commit 1f06794d1dd60cbfeaeadc52bdcd889261043102
+Author: DoneDonev <donedonev15@gmail.com>
+Date:   Sun Mar 31 20:55:03 2024 +0200
+
+    eall method makeBigStringFrom in main class.
+    
+    Resolve the conflict in the main java file
+
+commit bb6acf1b9bb2bfcf3f10cbf59f245ed4ed83e612
+Author: DoneDonev <donedonev15@gmail.com>
+Date:   Sun Mar 31 20:35:01 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit a24fd661c42948a088e47a205facd822e6adff76
+Author: DoneDonev <donedonev15@gmail.com>
+Date:   Sun Mar 31 20:55:03 2024 +0200
+
+    Call method makeBigStringFrom in main class.
+
+commit 22788fc6719f35afcdd8f555e7f0690c312f337b
+Author: DoneDonev <donedonev15@gmail.com>
+Date:   Sun Mar 31 20:49:55 2024 +0200
+
+    Call method filterOddLengthStrings in main class.
+
+commit e59aedc1164e3b84a2444280d0aa384191ffa8d7
+Author: DoneDonev <donedonev15@gmail.com>
+Date:   Sun Mar 31 20:35:01 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit dc99f3e56d3798e9da4c133c10728af2d24690e5
+Author: DoneDonev <donedonev15@gmail.com>
+Date:   Sun Mar 31 20:24:21 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit a183d6576b410bb775af1475ffeed2243e7cb840
+Author: DoneDonev <donedonev15@gmail.com>
+Date:   Sun Mar 31 09:48:49 2024 +0200
+
+    Add starter code
+
+commit 7b52368dc342de486c8960883af371966f690b29
+Author: DoneDonev <donedonev15@gmail.com>
+Date:   Sat Mar 30 21:45:47 2024 +0100
+
+    initial commit
